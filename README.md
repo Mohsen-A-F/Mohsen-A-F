@@ -71,22 +71,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-A-F&" alt="Mohsen-A-F" /></p> 
 
-## Recent Blog Posts  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mohsen-A-F&&style=flat-square" align="center" />
 </div>  
 
-<br/>  
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Mohsen-A-F" target="_blank" style="display: inline-block;">
-    <img
-      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-      align="center"
-    />
-  </a>
-</div>
-<br />
 
 ----
