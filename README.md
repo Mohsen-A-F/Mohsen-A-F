@@ -1,4 +1,10 @@
-### <div align="center">I'm Mohsen , a freelance developer 👨‍💻 </div>  
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+### I'm Mohsen , a freelance developer 👨‍💻 </div>  
   
 
 - 🌱 I’m currently skilling up in C & C++ and Machine Learning  
@@ -69,6 +75,9 @@
 <a href="https://github.com/Mohsen-A-F/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mohsen-A-F&layout=compact&" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-A-F&" alt="Mohsen-A-F" /></p> 
+<a href=&quothttps://github.com/Mohsen-A-F&quot> <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot /> </a>
 
 ## Recent Blog Posts  
   
