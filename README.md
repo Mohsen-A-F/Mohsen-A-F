@@ -64,8 +64,10 @@
 
 
 ## Github Stats  
-<a href=&quothttps://github.com/Mohsen-A-F&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-A-F&quot />
+
+</a>
+<a href="https://github.com/Mohsen-A-F/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mohsen-A-F&layout=compact&" />
 </a>
 
 ## Recent Blog Posts  
