@@ -11,11 +11,9 @@
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-</td><td valign="top" width="33%">
 
-### Backend  
+##### This list would be updated... 
 <div data-importer="techs" align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="60" alt="C logo" /></a>
   <img width="12" />
@@ -43,10 +41,7 @@
   <img width="12" />
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" height="60" alt="photoshop logo" /></a>
 </div>
-
-</td><td valign="top" width="33%">
-
-</td></tr></table>  
+ 
 
 <br/>  
 
