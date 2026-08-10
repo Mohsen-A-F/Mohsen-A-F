@@ -13,7 +13,7 @@
 ## My Skill Set  
 
 
-##### This list would be updated... 
+##### This list will be updated... 
 <div data-importer="techs" align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="60" alt="C logo" /></a>
   <img width="12" />
