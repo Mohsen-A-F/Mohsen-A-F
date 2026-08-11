@@ -65,6 +65,10 @@
 
 ## Github Stats  
 
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Mohsen-A-F&&style=flat-square" align="center" />
+</div>  
+
 <a href="https://github.com/Mohsen-A-F/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mohsen-A-F&layout=compact&" />
 </a>
@@ -72,9 +76,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-A-F&" alt="Mohsen-A-F" /></p> 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mohsen-A-F&&style=flat-square" align="center" />
-</div>  
 
 
 
